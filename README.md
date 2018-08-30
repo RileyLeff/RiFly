@@ -1,4 +1,4 @@
-# RiFly
+# riFly
 
 Automated check-in for Southwest Airlines flights -- a work in progress.  
 
