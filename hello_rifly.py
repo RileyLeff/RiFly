@@ -1,6 +1,5 @@
-# adding stuff to see what happens when I push to github
+import requests
 
-print("sam david does not believe in free will")
-print("I am wearing an abhimanyu deora t-shirt")
+r = requests.get('https://www.southwest.com/air/check-in/index.html')
 
-print("this works")
+print(r.text)
